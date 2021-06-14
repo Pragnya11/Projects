@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurableRegistry>
+    <pluginVersion>2.20.0</pluginVersion>
+    <configurableObjectRegistry>
+        <cache>
+            <configuredProjects>
+                <entry>
+                    <key>Phase1_Project</key>
+                    <value fullyLoaded="false" name="Phase1_Project">
+                        <configurationsByBasePath/>
+                        <extensionsByParent/>
+                        <extensionsInProject/>
+                        <librariesInProject/>
+                        <dependencies/>
+                        <tasksInProject/>
+                    </value>
+                </entry>
+                <entry>
+                    <key>RemoteSystemsTempFiles</key>
+                    <value fullyLoaded="false" name="RemoteSystemsTempFiles">
+                        <configurationsByBasePath/>
+                        <extensionsByParent/>
+                        <extensionsInProject/>
+                        <librariesInProject/>
+                        <dependencies/>
+                        <tasksInProject/>
+                    </value>
+                </entry>
+            </configuredProjects>
+        </cache>
+    </configurableObjectRegistry>
+</configurableRegistry>
